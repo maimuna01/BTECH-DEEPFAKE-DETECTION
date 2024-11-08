@@ -10,9 +10,9 @@ We used publicly available datasets they are [CelbDF-V2](https://github.com/yuez
 | Model         | Accuracy   | Precision  |  Recall | F1 Score   |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| 
 |  XceptionNet  | **98%**  | **0.98**  | **0.98**  | **0.98** |
-|  InceptionResNetV2  | 0.97  |  0.97  | 0.97  | 0.97 |
-|  EfficientNetV2S  | 0.97  | 0.97  | 0.97  | 0.97 |
-|  EfficientNetV2M  | 0.97  | 0.97  | 0.97  | 0.97 |
+|  InceptionResNetV2  | 97%  |  0.97  | 0.97  | 0.97 |
+|  EfficientNetV2S  | 97%  | 0.97  | 0.97  | 0.97 |
+|  EfficientNetV2M  | 97%  | 0.97  | 0.97  | 0.97 |
 
 ####  Performance Metrics of Weighted Average on FaceForensics++ Dataset
 
